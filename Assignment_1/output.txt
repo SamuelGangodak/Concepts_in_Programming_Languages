@@ -1,0 +1,8 @@
+Num1 : 20
+Num2 : -100
+Num_add : -80
+Num_sub : 120
+Num1_mul : 20
+Num2_mul : -100
+Num_mul : -2000
+

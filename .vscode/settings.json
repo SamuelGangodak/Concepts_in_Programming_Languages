@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "cstdio": "cpp",
+        "cwchar": "cpp",
+        "heap.h": "c",
+        "stdlib.h": "c",
+        "heap6.h": "c"
+    }
+}
